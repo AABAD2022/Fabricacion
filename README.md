@@ -1,5 +1,6 @@
 # Fabricacion
 Fabricacion F80P
+
 Control numero de Serie
 Modelo:                             F80P
 Versión electrónica:       AAA (AAB,AAC,AAD,AAE,…)
